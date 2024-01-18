@@ -1,4 +1,4 @@
-# Machine Learning based Online Payment Detection
+# Machine Learning based Online Payment Fraud Detection
 <p align="center">
   <img src="https://github.com/akhilchibber/Online-Payment-Fraud-Detection/blob/main/Online-Payment-Fraud.png?raw=true" alt="earthml Logo">
 </p>
