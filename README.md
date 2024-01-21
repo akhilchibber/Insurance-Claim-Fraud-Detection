@@ -4,7 +4,7 @@
 </p>
 
 ## Dataset
-The dataset used in this project can be found on Kaggle: [Online Payments Fraud Detection Dataset](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset/code). 
+The dataset used in this project can be found on Kaggle: [Online Payments Fraud Detection Dataset](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset/data). 
 
 ## Getting Started
 To get started with this project:
